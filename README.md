@@ -17,6 +17,15 @@ Este programa em Python solicita ao usuário seu nome completo e ano de nascimen
 2. Copie o código abaixo e cole em um arquivo Python (por exemplo, `calcular_idade.py`).
 3. Execute o arquivo Python.
 
+ ## Requisitos
+ Python 3.x
+
+ ## Contribuições
+ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+ ## Licença
+ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
 ```python
 from datetime import datetime, timedelta
 
@@ -59,12 +68,5 @@ def calcular_idade():
             print("Entrada inválida. Por favor, insira um número válido para o ano de nascimento.")
 
 
-       ## Requisitos
-          Python 3.x
-
-       ## Contribuições
-          Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-       ##Licença
-       Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+      
 
